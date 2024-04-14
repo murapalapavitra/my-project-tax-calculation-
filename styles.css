@@ -1,0 +1,130 @@
+.container {
+    width: 25%;
+    margin: 50px auto;
+    padding: 50px ;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding-top: 50px;
+
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input, select {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    width: 100%;
+    padding: 8px 16px;
+    background-color: #891cb0;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.error-icon {
+    display: none;
+    margin-left: 5px;
+    color: red;
+    cursor: pointer;
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.4);
+    
+}
+
+.modal-content {
+    background-color: #fefefef0;
+    margin: 15% auto;
+    padding: 50px;
+    border: 1px solid #888;
+    width: 35%;
+    height: 35%;
+    border-radius: 5px;
+    text-align: center;
+    border: 1px solid black;
+    text-align: center;
+    
+    
+}
+
+/* Center the modal content */
+.modal-content {
+    text-align: center;
+    margin: 15% auto; /* Center horizontally */
+    padding: 20px;
+}
+
+/* Center the close button */
+.modal-content button {
+    margin-top: 20px;
+    display: block; /* Make the button a block element */
+    margin-left: auto; /* Center horizontally */
+    margin-right: auto; /* Center horizontally */
+}
+
+
+
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    width: 50px; /* Set the width to 50px */
+    text-align: center; /* Align the text center */
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+center {
+    text-align: center;
+    margin-top: 20px; /* Adjust as needed */
+    width: 50px;
+}
+
+#resultModalMessage {
+    font-size: 24px; /* Adjust the font size as needed */
+     text-align: center;
+    
+}
+
+.fa-info-circle {
+    color: #111111d1;
+    font-size: 14px
+
+}
+
+.input-with-icon {
+    position: relative;
+}
+.input-with-icon i {
+    position: absolute;
+    top: 40%;
+    right: 7px; /* Adjust the right position as needed */
+    transform: translateY(-50%);
+    color: #aaa; /* Adjust the color as needed */
+}
+
