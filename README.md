@@ -38,7 +38,9 @@ https://github.com/murapalapavitra/my-project-tax-calculation-/blob/main/fly%20t
 ![image](https://github.com/murapalapavitra/my-project-tax-calculation-/assets/166744495/f8ac4588-65a0-4832-a5b0-b056cfeaf7a0)
 
 
+![image](https://github.com/murapalapavitra/my-project-tax-calculation-/assets/166744495/7bbfcda0-1955-425d-9e21-b526d998675b)
 
+  
       finally we tax calculation based on a users input ,after we click on close button we get back to our home page .. 
 
 
