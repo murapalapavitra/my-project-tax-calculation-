@@ -22,6 +22,7 @@ https://github.com/murapalapavitra/my-project-tax-calculation-/blob/main/fly%20t
 ![image](https://github.com/murapalapavitra/my-project-tax-calculation-/assets/166744495/3747b3db-9a99-47f0-b94a-311de6eaa0f2)
 
 
+![image](https://github.com/murapalapavitra/my-project-tax-calculation-/assets/166744495/909e0854-ab04-46a2-8fe8-fff4b118515b)
 
 
 
