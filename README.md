@@ -19,6 +19,13 @@ https://github.com/murapalapavitra/my-project-tax-calculation-/blob/main/fly%20t
 
 
 
+![image](https://github.com/murapalapavitra/my-project-tax-calculation-/assets/166744495/3747b3db-9a99-47f0-b94a-311de6eaa0f2)
+
+
+
+
+
+
 
 
       finally we tax calculation based on a users input ,after we click on close button we get back to our home page .. 
