@@ -18,20 +18,7 @@ https://github.com/murapalapavitra/my-project-tax-calculation-/blob/main/fly%20t
 https://github.com/murapalapavitra/my-project-tax-calculation-/blob/main/fly%20tax/output/Screenshot%20(579).png?raw=true
 
 
-![image](https://github.com/murapalapavitra/my-project-tax-calculation-/assets/166744495/de1ab02f-82ff-4373-8ee1-63963df4724f)
 
-![image](https://github.com/murapalapavitra/my-project-tax-calculation-/assets/166744495/901f26b6-c117-47cf-9a54-b2c08074a9a7)
-
-
-![image](https://github.com/murapalapavitra/my-project-tax-calculation-/assets/166744495/6fcb6472-47d0-4d81-ac68-ff25c276a34e)
-
-![image](https://github.com/murapalapavitra/my-project-tax-calculation-/assets/166744495/b82e804e-4940-4c87-adfa-db0c999744bd)
-
-![image](https://github.com/murapalapavitra/my-project-tax-calculation-/assets/166744495/4bc6eb42-e96d-4025-9f85-ef37213e21f1)
-
-![image](https://github.com/murapalapavitra/my-project-tax-calculation-/assets/166744495/b76627f1-3023-436a-862e-2e8d0860a06c)
-
-![image](https://github.com/murapalapavitra/my-project-tax-calculation-/assets/166744495/b8017733-80a3-4876-8a03-11ac19593850)
 
 
       finally we tax calculation based on a users input ,after we click on close button we get back to our home page .. 
